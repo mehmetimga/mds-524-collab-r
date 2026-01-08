@@ -1,0 +1,15 @@
+# R history/data
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio/IDE
+.Rproj.user/
+.Rproj.user
+.DS_Store
+.idea/
+.vscode/
+
+# Build artifacts (if any)
+*.Rcheck/
+
