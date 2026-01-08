@@ -1,0 +1,16 @@
+Package: mehmetmgaR524
+Title: Example Tools R Package Practice
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mehmet", "Imga", email = "you@example.com", role = c("aut", "cre"))
+Description: Simple practice package for collaboration assignment.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 3.6)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+LazyData: true
+
