@@ -1,6 +1,11 @@
+## Repository
+
+https://github.com/mehmetimga/mds-524-collab-r
+
 # mehmetmgaR524
 
 Practice R package. Includes a simple helper `add_two()`.
+
 
 ## Install (local)
 
